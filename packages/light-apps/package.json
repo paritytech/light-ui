@@ -23,7 +23,7 @@
     "@polkadot/api": "^1.22.1",
     "@polkadot/extension-dapp": "^0.31.1",
     "@polkadot/extension-inject": "^0.31.1",
-    "@polkadot/ui-assets": "^0.55.1",
+    "@polkadot/ui-assets": "^0.84.1",
     "@rehooks/local-storage": "^2.3.0",
     "@substrate/context": "^0.5.1",
     "@substrate/light": "^0.3.32",

@@ -33,7 +33,7 @@
     "@storybook/addon-actions": "^5.3.18",
     "@storybook/addon-knobs": "^5.3.18",
     "@storybook/addon-links": "^5.3.18",
-    "@storybook/react": "^5.3.18",
+    "@storybook/react": "^6.3.4",
     "@types/react-color": "^3.0.1",
     "@types/webpack-env": "^1.14.0"
   },
